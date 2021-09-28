@@ -1,5 +1,12 @@
-### Hi there 👋
+# C108118249 林沛晴 :wave:
 
+## 組員：C108118202 陳文彥
+## 　　　C108118220 羅欣寶
+## 　　　C108118232 林楓竣
+## 　　　C108118233 劉家寧
+## 　　　C108118238 陳楷軒
+
+![高科大](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 <!--
 **C108118249/C108118249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
