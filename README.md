@@ -9,9 +9,7 @@
 
 ### 　[國立高雄科技大學](https://www.nkust.edu.tw/)
 ![高科大](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
-![fig](nkust.jpg "海底風光")
-
-
+***
 <!--
 **C108118249/C108118249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![axia](https://pbs.twimg.com/media/E8grcM-VUAY18he?format=jpg&name=large "対よろ👊")　![fuwa](https://pbs.twimg.com/media/FANTYKBVcAAMniW?format=jpg&name=large "ふわっち最高 🥂✨")
 -->
